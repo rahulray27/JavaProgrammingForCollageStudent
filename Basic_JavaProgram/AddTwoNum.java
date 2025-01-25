@@ -1,3 +1,4 @@
+package Basic_JavaProgram;
 import java.util.Scanner;
 
 public class AddTwoNum {
